@@ -1,7 +1,6 @@
-print " print a number "
-n = raw_input()
-for num in range(n):
-n=100000
+n = raw_input(" print a number ")
+n = int()
 
-def divisors():
-	
+for num in xrange(1,n):
+	print "done"
+
